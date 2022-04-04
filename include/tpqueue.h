@@ -9,7 +9,7 @@ class TPQueue {
     T arr[100];
     int first;
     int last;
-    
+
  public:
     TPQueue() : first(0), last(0) {}
     int getSize() {
